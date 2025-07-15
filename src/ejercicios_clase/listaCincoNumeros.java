@@ -18,6 +18,8 @@ public class listaCincoNumeros {
 
         // Mostrar resultado
         System.out.println("\nTotal de ventas de la semana laboral:: $" + total);
+        System.out.println("\nGracias");
+
 
 	}
 
